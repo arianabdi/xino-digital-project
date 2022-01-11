@@ -25,4 +25,5 @@ GET: http://localhost:3000/xino
 ```
 
 #### Output In JSON
-You can also access to the output file inside `src/OUTPUT/output.json`
+You can also access to the output file inside `src/OUTPUT/output.json` <br>
+[xino-digital-output](https://github.com/arianabdi/xino-digital-project/blob/master/src/OUTPUT/output.json)

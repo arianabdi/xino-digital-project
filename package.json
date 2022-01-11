@@ -6,7 +6,7 @@
     "private": true,
     "license": "UNLICENSED",
     "scripts": {
-        "rino-test": "nest start --watch"
+        "xino-test": "nest start --watch"
     },
     "resolutions": {
         "@types/tapable": "1.0.2"

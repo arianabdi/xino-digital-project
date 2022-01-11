@@ -1,14 +1,14 @@
-## Rino Test Project
+## Xino Digital Test Project
 
 #### Installation
 ```$xslt
-cd RinoProject
+cd xino-digital-project
 npm install 
 ```
 
 #### run
 ```
-npm run rino-test
+npm run xino-test
 ```
 
 #### Setup .env file

@@ -1,0 +1,593 @@
+[
+    {
+        "date": 1,
+        "low": "3°",
+        "high": "12°",
+        "data": {}
+    },
+    {
+        "date": 2,
+        "low": "5°",
+        "high": "8°",
+        "data": {}
+    },
+    {
+        "date": 3,
+        "low": "4°",
+        "high": "10°",
+        "data": {}
+    },
+    {
+        "date": 4,
+        "low": "2°",
+        "high": "10°",
+        "data": {}
+    },
+    {
+        "date": 5,
+        "low": "6°",
+        "high": "11°",
+        "data": {}
+    },
+    {
+        "date": 6,
+        "low": "1°",
+        "high": "9°",
+        "data": {}
+    },
+    {
+        "date": 7,
+        "low": "2°",
+        "high": "11°",
+        "data": {}
+    },
+    {
+        "date": 8,
+        "low": "3°",
+        "high": "12°",
+        "data": {}
+    },
+    {
+        "date": 9,
+        "low": "3°",
+        "high": "13°",
+        "data": {}
+    },
+    {
+        "date": 10,
+        "low": "2°",
+        "high": "12°",
+        "data": {}
+    },
+    {
+        "date": 11,
+        "low": "6°",
+        "high": "12°",
+        "data": {
+            "offset": 1,
+            "Night": {
+                "Wind": "N 9 km/h",
+                "Wind_Gusts": "17 km/h",
+                "Probability_of_Precipitation": "25%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "67%"
+            }
+        }
+    },
+    {
+        "date": 12,
+        "low": "7°",
+        "high": "16°",
+        "data": {
+            "offset": 2,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "W 11 km/h",
+                "Wind_Gusts": "35 km/h",
+                "Probability_of_Precipitation": "2%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "21%"
+            },
+            "Night": {
+                "Wind": "N 9 km/h",
+                "Wind_Gusts": "24 km/h",
+                "Probability_of_Precipitation": "1%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "34%"
+            }
+        }
+    },
+    {
+        "date": 13,
+        "low": "8°",
+        "high": "17°",
+        "data": {
+            "offset": 3,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "S 7 km/h",
+                "Wind_Gusts": "17 km/h",
+                "Probability_of_Precipitation": "1%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "84%"
+            },
+            "Night": {
+                "Wind": "NE 7 km/h",
+                "Wind_Gusts": "19 km/h",
+                "Probability_of_Precipitation": "55%",
+                "Probability_of_Thunderstorms": "11%",
+                "Precipitation": "0.4 mm",
+                "Rain": "0.4 mm",
+                "Hours_of_Precipitation": "0.5",
+                "Hours_of_Rain": "0.5",
+                "Cloud_Cover": "98%"
+            }
+        }
+    },
+    {
+        "date": 14,
+        "low": "7°",
+        "high": "12°",
+        "data": {
+            "offset": 4,
+            "Day": {
+                "Max_UV_Index": "1 Low",
+                "Wind": "ESE 11 km/h",
+                "Wind_Gusts": "30 km/h",
+                "Probability_of_Precipitation": "75%",
+                "Probability_of_Thunderstorms": "9%",
+                "Precipitation": "6.3 mm",
+                "Rain": "6.3 mm",
+                "Hours_of_Precipitation": "3",
+                "Hours_of_Rain": "3",
+                "Cloud_Cover": "97%"
+            },
+            "Night": {
+                "Wind": "NNE 7 km/h",
+                "Wind_Gusts": "20 km/h",
+                "Probability_of_Precipitation": "100%",
+                "Probability_of_Thunderstorms": "20%",
+                "Precipitation": "8.2 mm",
+                "Rain": "8.2 mm",
+                "Hours_of_Precipitation": "3",
+                "Hours_of_Rain": "3",
+                "Cloud_Cover": "92%"
+            }
+        }
+    },
+    {
+        "date": 15,
+        "low": "3°",
+        "high": "11°",
+        "data": {
+            "offset": 5,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "NNE 7 km/h",
+                "Wind_Gusts": "22 km/h",
+                "Probability_of_Precipitation": "64%",
+                "Probability_of_Thunderstorms": "13%",
+                "Precipitation": "1.7 mm",
+                "Rain": "1.7 mm",
+                "Hours_of_Precipitation": "1",
+                "Hours_of_Rain": "1",
+                "Cloud_Cover": "43%"
+            },
+            "Night": {
+                "Wind": "NW 7 km/h",
+                "Wind_Gusts": "19 km/h",
+                "Probability_of_Precipitation": "72%",
+                "Probability_of_Thunderstorms": "14%",
+                "Precipitation": "3.4 mm",
+                "Rain": "3.4 mm",
+                "Hours_of_Precipitation": "2",
+                "Hours_of_Rain": "2",
+                "Cloud_Cover": "38%"
+            }
+        }
+    },
+    {
+        "date": 16,
+        "low": "1°",
+        "high": "10°",
+        "data": {
+            "offset": 6,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "NW 11 km/h",
+                "Wind_Gusts": "19 km/h",
+                "Probability_of_Precipitation": "0%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "2%"
+            },
+            "Night": {
+                "Wind": "NNE 9 km/h",
+                "Wind_Gusts": "17 km/h",
+                "Probability_of_Precipitation": "1%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "30%"
+            }
+        }
+    },
+    {
+        "date": 17,
+        "low": "0°",
+        "high": "8°",
+        "data": {
+            "offset": 7,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "NE 6 km/h",
+                "Wind_Gusts": "17 km/h",
+                "Probability_of_Precipitation": "25%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "64%"
+            },
+            "Night": {
+                "Wind": "NW 4 km/h",
+                "Wind_Gusts": "13 km/h",
+                "Probability_of_Precipitation": "25%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "87%"
+            }
+        }
+    },
+    {
+        "date": 18,
+        "low": "0°",
+        "high": "7°",
+        "data": {
+            "offset": 8,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "NNW 6 km/h",
+                "Wind_Gusts": "15 km/h",
+                "Probability_of_Precipitation": "1%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "22%"
+            },
+            "Night": {
+                "Wind": "N 4 km/h",
+                "Wind_Gusts": "9 km/h",
+                "Probability_of_Precipitation": "0%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "1%"
+            }
+        }
+    },
+    {
+        "date": 19,
+        "low": "1°",
+        "high": "9°",
+        "data": {
+            "offset": 9,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "WNW 2 km/h",
+                "Wind_Gusts": "11 km/h",
+                "Probability_of_Precipitation": "0%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "0%"
+            },
+            "Night": {
+                "Wind": "NNW 6 km/h",
+                "Wind_Gusts": "19 km/h",
+                "Probability_of_Precipitation": "0%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "2%"
+            }
+        }
+    },
+    {
+        "date": 20,
+        "low": "1°",
+        "high": "10°",
+        "data": {
+            "offset": 10,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "WNW 2 km/h",
+                "Wind_Gusts": "13 km/h",
+                "Probability_of_Precipitation": "0%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "66%"
+            },
+            "Night": {
+                "Wind": "NNW 4 km/h",
+                "Wind_Gusts": "15 km/h",
+                "Probability_of_Precipitation": "2%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "65%"
+            }
+        }
+    },
+    {
+        "date": 21,
+        "low": "-1°",
+        "high": "9°",
+        "data": {
+            "offset": 11,
+            "Day": {
+                "Max_UV_Index": "2 Low",
+                "Wind": "WNW 9 km/h",
+                "Wind_Gusts": "30 km/h",
+                "Probability_of_Precipitation": "5%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "82%"
+            },
+            "Night": {
+                "Wind": "NNW 6 km/h",
+                "Wind_Gusts": "20 km/h",
+                "Probability_of_Precipitation": "4%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "38%"
+            }
+        }
+    },
+    {
+        "date": 22,
+        "low": "-1°",
+        "high": "8°",
+        "data": {
+            "offset": 12,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "ESE 2 km/h",
+                "Wind_Gusts": "7 km/h",
+                "Probability_of_Precipitation": "9%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "39%"
+            },
+            "Night": {
+                "Wind": "N 6 km/h",
+                "Wind_Gusts": "15 km/h",
+                "Probability_of_Precipitation": "5%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "89%"
+            }
+        }
+    },
+    {
+        "date": 23,
+        "low": "-1°",
+        "high": "9°",
+        "data": {
+            "offset": 13,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "NW 7 km/h",
+                "Wind_Gusts": "22 km/h",
+                "Probability_of_Precipitation": "6%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "63%"
+            },
+            "Night": {
+                "Wind": "NNW 7 km/h",
+                "Wind_Gusts": "20 km/h",
+                "Probability_of_Precipitation": "2%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "17%"
+            }
+        }
+    },
+    {
+        "date": 24,
+        "low": "-2°",
+        "high": "9°",
+        "data": {
+            "offset": 14,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "SW 2 km/h",
+                "Wind_Gusts": "9 km/h",
+                "Probability_of_Precipitation": "3%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "3%"
+            },
+            "Night": {
+                "Wind": "N 4 km/h",
+                "Wind_Gusts": "15 km/h",
+                "Probability_of_Precipitation": "9%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "25%"
+            }
+        }
+    },
+    {
+        "date": 25,
+        "low": "-3°",
+        "high": "5°",
+        "data": {
+            "offset": 15,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "NE 6 km/h",
+                "Wind_Gusts": "13 km/h",
+                "Probability_of_Precipitation": "25%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "30%"
+            },
+            "Night": {
+                "Wind": "SE 4 km/h",
+                "Wind_Gusts": "4 km/h",
+                "Probability_of_Precipitation": "49%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "81%"
+            }
+        }
+    },
+    {
+        "date": 26,
+        "low": "-2°",
+        "high": "5°",
+        "data": {
+            "offset": 16,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "NNE 4 km/h",
+                "Wind_Gusts": "6 km/h",
+                "Probability_of_Precipitation": "49%",
+                "Probability_of_Thunderstorms": "10%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "46%"
+            },
+            "Night": {
+                "Wind": "NE 2 km/h",
+                "Wind_Gusts": "6 km/h",
+                "Probability_of_Precipitation": "49%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "42%"
+            }
+        }
+    },
+    {
+        "date": 27,
+        "low": "-3°",
+        "high": "5°",
+        "data": {
+            "offset": 17,
+            "Day": {
+                "Max_UV_Index": "2 Low",
+                "Wind": "NNE 7 km/h",
+                "Wind_Gusts": "15 km/h",
+                "Probability_of_Precipitation": "20%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "69%"
+            },
+            "Night": {
+                "Wind": "NW 6 km/h",
+                "Wind_Gusts": "6 km/h",
+                "Probability_of_Precipitation": "10%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "5%"
+            }
+        }
+    },
+    {
+        "date": 28,
+        "low": "-2°",
+        "high": "6°",
+        "data": {
+            "offset": 18,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "NNE 6 km/h",
+                "Wind_Gusts": "6 km/h",
+                "Probability_of_Precipitation": "10%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "0%"
+            },
+            "Night": {
+                "Wind": "SE 4 km/h",
+                "Wind_Gusts": "4 km/h",
+                "Probability_of_Precipitation": "10%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "3%"
+            }
+        }
+    },
+    {
+        "date": 29,
+        "low": "-1°",
+        "high": "6°",
+        "data": {
+            "offset": 19,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "NNE 6 km/h",
+                "Wind_Gusts": "6 km/h",
+                "Probability_of_Precipitation": "5%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "3%"
+            },
+            "Night": {
+                "Wind": "ESE 4 km/h",
+                "Wind_Gusts": "6 km/h",
+                "Probability_of_Precipitation": "10%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "14%"
+            }
+        }
+    },
+    {
+        "date": 30,
+        "low": "-1°",
+        "high": "6°",
+        "data": {
+            "offset": 20,
+            "Day": {
+                "Max_UV_Index": "3 Moderate",
+                "Wind": "NNE 6 km/h",
+                "Wind_Gusts": "7 km/h",
+                "Probability_of_Precipitation": "10%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "41%"
+            },
+            "Night": {
+                "Wind": "NW 2 km/h",
+                "Wind_Gusts": "4 km/h",
+                "Probability_of_Precipitation": "5%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "48%"
+            }
+        }
+    },
+    {
+        "date": 31,
+        "low": "-1°",
+        "high": "7°",
+        "data": {
+            "offset": 21,
+            "Day": {
+                "Max_UV_Index": "1 Low",
+                "Wind": "NNE 6 km/h",
+                "Wind_Gusts": "6 km/h",
+                "Probability_of_Precipitation": "10%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "100%"
+            },
+            "Night": {
+                "Wind": "ENE 2 km/h",
+                "Wind_Gusts": "4 km/h",
+                "Probability_of_Precipitation": "25%",
+                "Probability_of_Thunderstorms": "0%",
+                "Precipitation": "0.0 mm",
+                "Cloud_Cover": "74%"
+            }
+        }
+    }
+]

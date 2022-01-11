@@ -6,7 +6,7 @@ export class AppController {
     constructor(private readonly appService: AppService) {
     }
 
-    @Get('/rino')
+    @Get('/xino')
     async rinoDigitalScrapTest() {
         const url = 'https://www.accuweather.com/en/ir/tehran/210841/january-weather/210841';
         const html = await this.appService.getHtmlContentFromUrl(url);
